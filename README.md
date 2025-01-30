@@ -45,12 +45,14 @@ Use Hydra to launch brute force attacks on honeypots.
 Log attack data in Syslog-NG for analysis.
 
 **Output Generation:**
+
 Successful logging of attacks.
 
 Detailed reports on attack patterns and IP sources.
 
 
 **Outputs**
+
 System Logs: Comprehensive logs of all brute force attempts, including timestamps, IP addresses, and attack details.
 
 
